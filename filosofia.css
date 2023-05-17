@@ -1,0 +1,36 @@
+body {
+    background-color: black; 
+    color: rgb(2, 107, 90);
+    
+}
+h1 {
+    text-align: center;
+    color: brown;
+    padding: 20px;
+}
+b#pe {
+    color: rgb(0, 173, 179);
+    font: normal 15pt arial;
+}
+b#pi {
+    color: rgb(0, 173, 179);
+    font: normal 15pt arial;
+    padding: 10px;
+} 
+p#cabe {
+    font: normal 13pt arial;
+    padding: 10px;
+}
+img {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+input#foto {
+    color: rgb(0, 126, 148);
+    background-color: rgb(0, 0, 0);
+}
+p#foto1 {
+    padding: 10px;
+}
